@@ -2,11 +2,11 @@
 
 ```bash
 # Clone este repositório
-$ git clone
+git clone
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd classificador-nivel-heroi
+cd dio-classificador-heroi
 
 # Execute a aplicação
-$ node index.js
+node index.js
 ```
